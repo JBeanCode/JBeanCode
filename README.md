@@ -1,40 +1,32 @@
 <h1 align="center">Hi 👋, I'm Josh Bean</h1>
-<h3 align="center">Full Stack Software Developer | Founder of Kado Web Studio LLC</h3>
+<h3 align="center">Full Stack Software Developer | Founder of Mountain West Web Studio LLC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosuna-84&label=Profile%20views&color=0e75b6&style=flat" alt="diegosuna-84" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbeancode&label=Profile%20views&color=0e75b6&style=flat" alt="jbeancode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosuna-84" alt="diegosuna-84" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbeancode" alt="jbeancode" /></a> </p>
 
----
+<hr>
 
-### 👨‍💻 About Me
+### 📜 About Me
 
-- 🎓 Certified Full Stack Software Developer — 4Geeks Academy Miami (360 hours)
-- 🏢 Founder & Developer at **[Kado Web Studio LLC](https://kadowebstudio.com)** — building custom web solutions for small businesses in South Florida
-- 🍡 Currently building **Mochi** — an AAC communication tool for non-verbal and minimally verbal users
-- 💻 Passionate about backend development, clean architecture, and building tools that make a real impact
-- 🌱 Currently learning **Cursor AI, Notion, and advanced Flask patterns**
-- 📫 Reach me at **diego.osuna1984@outlook.com**
+<p align="left">- 💻 Certified Full Stack Software Developer — 4Geeks Academy (400+ hours)</p>
+<p align="left">- 🏢 Founder & Head Developer at <strong><a href=https://github.com/4GeeksAcademy/Gaming-Connect-App-Final-Project-MI-88">Insert MWWS link here</a></strong> — building custom websites and mobile applications for individuals and business in the Mountain West</p>
+<p align="left">- ♥️ Passionate about data, backend development, and creating readable, clean, and efficient code</p>
+<p align="left">- 💭 Creative soul that loves to bring your ideas to life</p>
+<p align="left">- 📚 Currently studying AI Engineering along with workflow automation
+<p align="left">- 📫 Reach me at <strong><a href="mailto:js02bean@gmail.com">js02bean@gmail.com</a></strong></p>
 
----
+<hr>
 
-### 🚀 Projects
+### 🖥️ Projects
 
-#### 🍡 AAC Communication Tool *(In Development)*
-> *Tap it. Say it. Mochi.*
+#### - 🎮 GuildUp! (Personalized Gaming Connect Website)
 
-A symbol-based Augmentative and Alternative Communication (AAC) web app for non-verbal and minimally verbal users. Built with React, Flask, and Web Speech API. Designed to be fast, minimal, offline-first, and accessibility-first.
+- GuildUp breaks down the barriers that keep players apart by intelligently connecting and recommending fellow gamers based on the games they love, the skills they've built,   the style they play, and even the time they have to play. Because gaming is always better together!
 
-**Built under Kado Web Studio LLC**
+<p align="left">  🔗 <a href=https://github.com/4GeeksAcademy/Gaming-Connect-App-Final-Project-MI-88">View Project!</a></p>
 
----
-
-#### 🗺️ Vendor Discovery Platform *(Completed)*
-A full-stack business discovery platform connecting users with local businesses. Features business profiles, Google Maps integration, JWT authentication, reviews, favorites, and offer management.
-
-🔗 [View Project](https://github.com/4GeeksAcademy/Final-Project-Moufdi-Erick-Diego-MI-88)
-
----
+<hr>
 
 ### 🛠️ Languages and Tools
 
@@ -64,20 +56,24 @@ A full-stack business discovery platform connecting users with local businesses.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/>
 </p>
 
----
+<hr>
 
-### 📊 GitHub Stats
+<h3>👋 Connect with me</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosuna-84&show_icons=true&locale=en&layout=compact&theme=dark" alt="diegosuna-84" />
+  <a href="https://www.linkedin.com/in/js02bean/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-osuna" height="30" width="40" />
+  </a>
 </p>
+<h3>⛰️ Connect with Mountain West Web Studio</h3>
 
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/diego-osuna/" target="_blank">
+<p align="left"> add MWWS LinkedIn Link here
+  <a href="https://www.linkedin.com/in/js02bean/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-osuna" height="30" width="40" />
+  </a>
+</p>
+<p align="left"> add MWWS Website Link here
+  <a href="https://www.linkedin.com/in/js02bean/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-osuna" height="30" width="40" />
   </a>
 </p>
