@@ -10,7 +10,7 @@
 ### 📜 About Me
 
 <p align="left">- 💻 Certified Full Stack Software Developer — 4Geeks Academy (400+ hours)</p>
-<p align="left">- 🏢 Founder & Head Developer at <strong><a href=https://github.com/4GeeksAcademy/Gaming-Connect-App-Final-Project-MI-88">Insert MWWS link here</a></strong> — building custom websites and mobile applications for individuals and business in the Mountain West</p>
+<p align="left">- 🏢 Founder & Head Developer at <strong><a href=https://www.mountainwestwebstudio.com>Mountain West Web Studio</a></strong> — building custom websites and mobile applications for individuals and business in the Mountain West</p>
 <p align="left">- ♥️ Passionate about data, backend development, and creating readable, clean, and efficient code</p>
 <p align="left">- 💭 Creative soul that loves to bring your ideas to life</p>
 <p align="left">- 📚 Currently studying AI Engineering along with workflow automation
@@ -72,8 +72,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-osuna" height="30" width="40" />
   </a>
 </p>
-<p align="left"> add MWWS Website Link here
-  <a href="https://www.linkedin.com/in/js02bean/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-osuna" height="30" width="40" />
+<p align="left">
+  <strong><a href="https://www.mountainwestwebstudio.com/contact-us" target="_blank">Mountain West Web Studio - Contact Us</a></strong>
   </a>
 </p>
