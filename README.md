@@ -73,6 +73,6 @@
   </a>
 </p>
 <p align="left">
-  <strong><a href="https://www.mountainwestwebstudio.com/contact-us" target="_blank">Mountain West Web Studio - Contact Us</a></strong>
+  <strong><a href="https://mountainwestwebstudio.com/contact-us" target="_blank">Mountain West Web Studio - Contact Us</a></strong>
   </a>
 </p>
